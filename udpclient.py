@@ -1,6 +1,5 @@
 #运行环境，clien在vscode中运行，并且下载python解释器，确保要发送的文件与与UDP.PY在同一个文件夹
 
-
 # -*- coding: utf-8 -*-
 import socket
     #导入socket模块
