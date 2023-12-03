@@ -1,1 +1,1 @@
-该程序可实现通过udp实现不同主机之间文本文件的传输，client在vscode中运行，确保要发送的文件与UDP.PY在同一文件夹中
+该程序可实现通过udp实现不同主机之间文本文件的传输，client在vscode中运行，udp使用python运行即可,确保要发送的文件与UDP.PY在同一文件夹中
